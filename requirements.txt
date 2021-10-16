@@ -1,8 +1,9 @@
 git+https://github.com/pyrogram/pyrogram@master
-py-tgcalls==0.8.1rc1
-parse-torrent-name
+py-tgcalls==0.8.1b25
 tgcrypto
-yt-dlp
+ffmpeg-python
+wrapt_timeout_decorator
+youtube_dl
 youtube_search_python
 youtube_search
 heroku3
