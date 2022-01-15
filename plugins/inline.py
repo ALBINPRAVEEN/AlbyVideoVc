@@ -19,7 +19,7 @@ buttons = [
     [
         InlineKeyboardButton('⚡️Developer', url='https://albinpraveen.ml'),
         InlineKeyboardButton('🧩Owner', url='https://t.me/i_am_albin_praveen'),
-        InlineKeyboardButton('➕★ɴᴀɴᴜ ᴀᴅᴅ ᴄʜᴇꜱᴜᴋᴏ➕', url='https://t.me/{BOT_USERNAME}?startgroup=true'), 
+        InlineKeyboardButton('➕★ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴩ➕', url='https://t.me/{BOT_USERNAME}?startgroup=true'), 
     ]
     ]   
     ]
