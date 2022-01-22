@@ -22,7 +22,7 @@ buttons = [
         InlineKeyboardButton('➕★ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴩ➕', url='https://t.me/{BOT_USERNAME}?startgroup=true'), 
     ]
     ]   
-    ]
+    
 def get_cmd(dur):
     if dur:
         return "/play"
